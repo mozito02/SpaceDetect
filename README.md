@@ -22,7 +22,7 @@ SpaceDetect is a Django web application that leverages a Random Forest model to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/SpaceDetect.git
+   git clone https://github.com/mozito02/SpaceDetect.git
    cd SpaceDetect
    ```
 
