@@ -5,7 +5,6 @@ SpaceDetect is a Django web application that leverages a Random Forest model to 
 
 ## Features
 
-- **Background Image**: A full-screen background image of space for a visually appealing interface.
 - **Prediction Form**: A form for users to input NEO data.
 - **Model Integration**: Utilizes a pre-trained Random Forest model to determine the hazard level of the NEO.
 
